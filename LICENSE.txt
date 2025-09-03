@@ -1,0 +1,9 @@
+MockGen Server — Commercial Software
+
+Copyright (c) 2025 CodeBodhi. All rights reserved.
+
+This plugin is provided under a 7-day free trial. After the trial expires, a valid license must be purchased to continue using the software.
+
+You may not redistribute, copy, modify, or reverse-engineer this plugin without explicit permission from the author.
+
+For licensing inquiries, contact: codebodhi@gmail.com
